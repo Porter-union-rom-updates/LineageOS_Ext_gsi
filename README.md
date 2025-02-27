@@ -22,7 +22,7 @@ repo init -u https://github.com/MisterZtr/android.git -b lineage-22.1 --git-lfs
 
 ### Clone the Manifest to add necessary dependencies for gsi:
  
-    git clone https://github.com/MisterZtr/treble_manifest.git .repo/local_manifests  -b 15-los
+    git clone https://github.com/Porter-union-rom-updates/treble_manifest.git .repo/local_manifests  -b 15-los
   
 
 
